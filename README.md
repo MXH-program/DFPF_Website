@@ -1,3 +1,3 @@
 # DFPF_Website
 
-This is a website for my Digital Fabrication and Prototyping Fundamentals module.
+This is a website created for my Digital Fabrication and Prototyping Fundamentals module.
